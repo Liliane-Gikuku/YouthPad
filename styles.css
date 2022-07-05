@@ -129,10 +129,11 @@ ul li a:hover{
   transition: .3s ease;
 }
 .cn:hover{
-  background-color: #fff;
+  background-color: rgb(245, 108, 29);
+  
 }
 .content span{
-  color: #ff7200;
+  color: rgb(245, 108, 29);
   font-size: 65px
 }
 
